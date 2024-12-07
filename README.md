@@ -35,7 +35,7 @@ Within the `project2` folder are two Python files:
 
    ![Reduced Time Step Solution](project2/plots/FE_Solution_T=1.0_nt=561_N=11.png)
 
-   By reducing the time step to 1/561, the solution becomes more stable.
+   By reducing the time step to 1/561, the solution becomes more stable. For timesteps greater than 1/561, the forward euler began to fail to produce stable solutions.
 
 3. **Further Time Step Reduction:**
 
