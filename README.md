@@ -85,7 +85,7 @@ Within the `project2` folder are two Python files:
 
    By increasing N, we obtain highly accurate solutions using the Backward Euler method.
 
-3. **Decreasing Accuracy for very Large dt:**
+3. **Decreasing Accuracy for dt's that are greater than dx:**
 
    ![Decreased Accuracy](project2/plots/BE_Solution_T=1.0_nt=10_N=11.png)
 
