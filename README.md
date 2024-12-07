@@ -2,3 +2,6 @@
 
 Weak Form Derivation:
 
+![weak form](./Weak Form Derivation.jpg)
+
+
