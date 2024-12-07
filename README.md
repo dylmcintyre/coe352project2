@@ -2,7 +2,7 @@
 
 Weak Form Derivation:
 
-![weakform]([./Weak Form Derivation.jpg](https://github.com/dylmcintyre/coe352project2/blob/main/project2/Weak%20Form%20Derivation.jpg))
+![weakform](project2/Weak Form Derivation.jpg)
 
 I used this derivation to help create the algorithms to solve the problem numerically.
 Within the project2 folder are two files
@@ -14,5 +14,5 @@ Within the project2 folder are two files
 For the forward Euler aproach, the following results were obtained:
 
 
-![e1](plots/BE_Solution_T=1.0_nt=551_N=11.png)
+![e1](project2/plots/BE_Solution_T=1.0_nt=551_N=11.png)
 
