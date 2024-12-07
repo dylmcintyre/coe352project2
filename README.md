@@ -89,7 +89,7 @@ Within the `project2` folder are two Python files:
 
    ![Decreased Accuracy](project2/plots/BE_Solution_T=1.0_nt=10_N=11.png)
 
-   While Backward Euler remains stable even with large time steps, the solution's accuracy diminishes significantly as dt becomes larger than the spacial step size.
+   While Backward Euler remains stable even with large time steps, the solution's accuracy diminishes significantly as dt becomes larger than the spacial step size. This is likely because as dt gets large compared to the spacial timestep, the slope of the solution changes more sharply between each time step, so the model does not accuratly aproximate these gradients and loses accuracy.
 
 ---
 
