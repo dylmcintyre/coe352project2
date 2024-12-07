@@ -2,7 +2,7 @@
 
 Weak Form Derivation:
 
-![weakform](project2/Weak Form Derivation.jpg)
+![weakform](project2/Weak_Form_Derivation.jpg)
 
 I used this derivation to help create the algorithms to solve the problem numerically.
 Within the project2 folder are two files
